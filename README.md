@@ -13,12 +13,9 @@ open index.html
 
 ---
 
-## Demo Credentials
+## Authentication
 
-| Account | Email | Access Code | Tier |
-|---------|-------|-------------|------|
-| Demo Member | member@torch.com | DEMO2026 | Member |
-| Ambassador | derrick@example.com | TORCH2026 | Ambassador |
+Access codes are managed via the backend API. Contact admin for credentials.
 
 ---
 
